@@ -1,0 +1,2 @@
+# BeeAuth
+Java Auth framework
